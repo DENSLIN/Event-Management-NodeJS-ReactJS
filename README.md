@@ -22,4 +22,3 @@ Front-end using **React.js** (front-end Currently in development)
 
 ### Development
 
-*Currently in development.*
